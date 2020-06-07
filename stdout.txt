@@ -1,0 +1,16 @@
+  console.log
+    getShoppingCart: {
+      products: [
+        { name: 'RUBBERIZED PRINTED T-SHIRT', category: 'T-SHIRTS' },
+        { name: 'CONTRAST SLOGAN T-SHIRT', category: 'T-SHIRTS' },
+        { name: 'KNIT JOGGING PANTS', category: 'PANTS' },
+        { name: 'MENSWEAR PANTS', category: 'PANTS' }
+      ],
+      promotion: 'DOUBLE LOOK',
+      totalPrice: '504.95',
+      discountValue: '25.00',
+      discount: '4.72%'
+    }
+
+      at Object.<anonymous> (src/index.js:98:9)
+
